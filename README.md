@@ -10,6 +10,14 @@ Kaggle에서 포켓몬 데이터를 다운로드 받고, 타겟 포켓몬을 정
 
 유사도 계산은 코사인 유사도, 유클리드 거리 두 가지 방법을 사용하였으며 각각의 csv 파일로 저장됩니다.
 
+CNN 모델은 각 이미지의 Feature를 Extract 하게되고 여기서 Softmax를 사용하면 가장 일치하는 라벨을 찾게 됩니다.
+
+하지만 여기서는 Softmax를 사용하지 않고 Fully connected layer만 통과시켜 Feature Vector를 출력합니다.
+
+그리고 타겟 이미지의 Feature Vector과 나머지 이미지의 Feature Vector에서 유사도를 계산합니다.
+
+
+
 
 ## 모델
 VGG16 : https://arxiv.org/abs/1409.1556
@@ -17,7 +25,6 @@ VGG16 : https://arxiv.org/abs/1409.1556
 ![vgg16](https://github.com/k-3730/Pokemon-Similarity/assets/45035923/850b65c6-427a-40ca-b0ff-4b30bca9d250)
 
 이미지 출처 : https://neurohive.io/en/popular-networks/vgg16/
-
 
 
 
