@@ -15,6 +15,7 @@ Kaggle에서 포켓몬 데이터를 다운로드 받고, 타겟 포켓몬을 정
 VGG16 : https://arxiv.org/abs/1409.1556
 
 ![vgg16](https://github.com/k-3730/Pokemon-Similarity/assets/45035923/850b65c6-427a-40ca-b0ff-4b30bca9d250)
+
 이미지 출처 : https://neurohive.io/en/popular-networks/vgg16/
 
 
