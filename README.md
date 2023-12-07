@@ -31,5 +31,8 @@ VGG16 : https://arxiv.org/abs/1409.1556
 
 
 ## 결과 예시
+첫 번째 이미지가 타겟 이미지로 나머지 포켓몬과 유클리드 거리를 계산한 결과입니다.
+
+0에 가까울수록 타겟 이미지와 유사하며 가까운 이미지부터 정렬되어 있습니다.
 
 ![output](https://github.com/k-3730/Pokemon-Similarity/assets/45035923/0a5b0f81-b16e-4c32-abb8-f3b2badfdd09)
