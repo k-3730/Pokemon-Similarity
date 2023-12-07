@@ -9,3 +9,6 @@
 Kaggle에서 포켓몬 데이터를 다운로드 받고, 타겟 포켓몬을 정해주면 나머지 포켓몬에 대해서 유사도를 계산합니다.
 
 유사도 계산은 코사인 유사도, 유클리드 거리 두 가지 방법을 사용하였으며 각각의 csv 파일로 저장됩니다.
+
+
+![output](https://github.com/k-3730/Pokemon-Similarity/assets/45035923/0a5b0f81-b16e-4c32-abb8-f3b2badfdd09)
