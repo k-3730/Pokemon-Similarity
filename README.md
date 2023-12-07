@@ -12,6 +12,6 @@ Kaggle에서 포켓몬 데이터를 다운로드 받고, 타겟 포켓몬을 정
 
 
 
-## 예시 결과
+## 결과 예시
 
 ![output](https://github.com/k-3730/Pokemon-Similarity/assets/45035923/0a5b0f81-b16e-4c32-abb8-f3b2badfdd09)
