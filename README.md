@@ -1,6 +1,6 @@
 # Pokemon-Similarity
 
-Pokemon data : https://kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
+포켓몬 데이터 : https://kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
 
 ![Python 3.11.7](https://img.shields.io/badge/python-3.11.7-blue.svg)
 ![TensorFlow 2.15.0](https://img.shields.io/badge/TensorFlow-2.15.0-orange.svg)
